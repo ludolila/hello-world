@@ -1,2 +1,3 @@
 # hello-world
-Learning the basics of git.
+Learning the basics of git. 
+This is my first test commit.
